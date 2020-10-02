@@ -1,9 +1,11 @@
 ### 👋 Mabuhay! Kamusta kayo?
 
 
-I'm a volunteer at Women Who Code Manila and a part-time teacher for Japanese students trying to learn English and IT at the same time. 
-
 I'm a Javascript Developer and Vue is my favorite framework. 
+
+I'm a volunteer at Women Who Code Manila as a tech lead for Vue.
+
+I'm a part-time teacher for Japanese students trying to learn English and IT at the same time. 
 
 Primarily into web development but I recently started developing on AWS and GCP and aiming to get certified. 
 
