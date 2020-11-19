@@ -7,7 +7,9 @@ I'm a volunteer at Women Who Code Manila as a tech lead for Vue.
 
 I'm a part-time teacher for Japanese students trying to learn English and IT at the same time. 
 
-Primarily into web development but I recently started developing on AWS and GCP and aiming to get certified. 
+Primarily into web development but I recently started mobile development. 
+
+Developing on AWS and GCP and aiming to get certified. 
 
 Also, trying to branch out to Mobile Development and DevOps. 
 
