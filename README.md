@@ -13,7 +13,6 @@ Developing on AWS and GCP and aiming to get certified.
 
 Also, trying to branch out to Mobile Development and DevOps. 
 
-- 🔭 Working on a push notification module for a mobile app built in React Native and ElasticSearch
 - 🌱 Learning NestJs | Python | Go | AWS | ElasticSearch 
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me: [hello@krizzabullecer.dev](mailto:hello@krizzabullecer.dev)
