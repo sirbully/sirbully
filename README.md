@@ -1,13 +1,13 @@
 ### 👋 Mabuhay! Kamusta kayo?
 
 
-I'm a Javascript Developer and Vue is my favorite framework. 
+I'm a Software Engineer and Node.js is my go-to language. 
 
 I'm a volunteer at [Women Who Code Manila](https://www.womenwhocode.com/manila/about) as a Vue Tech Lead.
 
 I'm a volunteer at [ULAP.org](https://www.ulap.org/) as an AWS Tech Lead.
 
-Primarily into web development and recently engaged in DevOps.
+Primarily into API development and recently engaged in DevOps and Cloud Engineering.
 
 Developing on AWS and GCP and aiming to get certified. 
 
