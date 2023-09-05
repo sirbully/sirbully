@@ -9,7 +9,5 @@ I work a lot with Typescript and React now in my job but I also engage in DevOps
 
 Developing on AWS and GCP and aiming to get certified. 
 
-- 🏃 I'm actively learning Python | Go | AWS | GCP
-- 🌱 I’m currently interested in sustainable technology.
-- 💬 Quote: There is always time. You just have to find it.
+- 💬 There is always time. You just have to find it.
 - 📫 How to reach me: [hello@krizzabullecer.dev](mailto:hello@krizzabullecer.dev)
