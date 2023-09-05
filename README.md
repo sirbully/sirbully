@@ -3,7 +3,7 @@
 
 I'm a Software Engineer and Node.js is my go-to language. 
 
-I'm a volunteer at [Women Who Code Manila](https://www.womenwhocode.com/manila/about) as a Vue Tech Lead.
+I'm a volunteer at [Women Who Code Manila](https://www.womenwhocode.com/manila/about) as a Lead.
 
 I'm a volunteer at [ULAP.org](https://www.ulap.org/) as an AWS and GCP Tech Lead.
 
