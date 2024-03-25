@@ -1,7 +1,7 @@
 ### 👋 Mabuhay! Kamusta kayo?
 
 
-I'm a Software Engineer and Node.js is my go-to language. 
+I'm a Software Engineer and JavaScript/TypeScript is my go-to language. 
 
 I used to volunteer at [Women Who Code Manila](https://www.womenwhocode.com/network/manila/) but recently moved to [Women Who Code Tokyo](https://www.womenwhocode.com/network/tokyo/). Feel free to join our many [events](https://members.womenwhocode.com/events)!
 
